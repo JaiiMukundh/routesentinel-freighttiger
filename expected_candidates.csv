@@ -1,0 +1,14 @@
+route,week_of,cost_per_tonne_km,own_pct,peer_pct,expected_flagged,expected_note_id,tag
+Delhi-Jaipur,2024-11-11,4.172957,0.355201,0.210344,Yes,,
+Delhi-Jaipur,2024-11-18,4.090564,0.27619,0.196733,Yes,,
+Ahmedabad-Mumbai,2025-01-20,3.290367,0.294731,0.224937,No (justified),N002,
+Chennai-Bangalore,2025-02-24,3.582827,0.314641,0.38668,No (justified),N001,
+Chennai-Bangalore,2025-03-03,3.476189,0.227827,0.319761,No (justified),N001,
+Chennai-Bangalore,2025-03-10,3.571667,0.220771,0.338371,Yes,,debatable: window ends 2025-03-08
+Chennai-Bangalore,2025-03-17,3.469237,0.136898,0.33477,Yes,,debatable: N009 says normal
+Mumbai-Pune,2025-09-15,3.98081,0.092497,0.236252,Yes,,
+Mumbai-Pune,2025-10-20,4.095334,0.076874,0.248336,Yes,,
+Mumbai-Pune,2025-11-03,4.199375,0.073606,0.240737,Yes,,
+Mumbai-Pune,2025-11-17,4.322077,0.088651,0.316074,Yes,,
+Mumbai-Pune,2025-12-01,4.392798,0.077262,0.373925,Yes,,
+Mumbai-Pune,2025-12-08,4.431941,0.072044,0.38804,Yes,,

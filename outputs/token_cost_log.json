@@ -1,0 +1,9 @@
+{
+  "cache_hits": 0,
+  "calls": 0,
+  "fallback_rate": 0.0,
+  "hosted_rates": "FILL_BY_HUMAN",
+  "input_tokens": 0,
+  "local_cost": 0,
+  "output_tokens": 0
+}

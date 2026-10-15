@@ -1,0 +1,144 @@
+[
+  {
+    "note_id": "N001",
+    "scope": [
+      "Chennai-Bangalore"
+    ],
+    "effect": "increase",
+    "start": "2025-02-24",
+    "end": "2025-03-08",
+    "open_ended": false,
+    "mag": [
+      null,
+      null
+    ],
+    "cause": "weather"
+  },
+  {
+    "note_id": "N002",
+    "scope": [
+      "Ahmedabad-Mumbai"
+    ],
+    "effect": "increase",
+    "start": "2025-01-20",
+    "end": "2025-01-26",
+    "open_ended": false,
+    "mag": [
+      null,
+      null
+    ],
+    "cause": "festival"
+  },
+  {
+    "note_id": "N003",
+    "scope": "ALL",
+    "effect": "increase",
+    "start": "2025-05-05",
+    "end": null,
+    "open_ended": true,
+    "mag": [
+      5,
+      7
+    ],
+    "cause": "fuel"
+  },
+  {
+    "note_id": "N004",
+    "scope": "ALL",
+    "effect": "none",
+    "start": "2024-03-11",
+    "end": null,
+    "open_ended": false,
+    "mag": [
+      null,
+      null
+    ],
+    "cause": "toll"
+  },
+  {
+    "note_id": "N005",
+    "scope": [
+      "Mumbai-Delhi"
+    ],
+    "effect": "none",
+    "start": "2024-07-29",
+    "end": "2024-08-04",
+    "open_ended": false,
+    "mag": [
+      null,
+      null
+    ],
+    "cause": "road"
+  },
+  {
+    "note_id": "N006",
+    "scope": "ALL",
+    "effect": "none",
+    "start": "2025-09-22",
+    "end": null,
+    "open_ended": false,
+    "mag": [
+      null,
+      null
+    ],
+    "cause": "demand"
+  },
+  {
+    "note_id": "N007",
+    "scope": [
+      "Delhi-Jaipur"
+    ],
+    "effect": "decrease",
+    "start": "2024-05-20",
+    "end": null,
+    "open_ended": false,
+    "mag": [
+      null,
+      null
+    ],
+    "cause": "road"
+  },
+  {
+    "note_id": "N008",
+    "scope": [
+      "Kolkata-Bhubaneswar"
+    ],
+    "effect": "none",
+    "start": "2025-06-09",
+    "end": null,
+    "open_ended": false,
+    "mag": [
+      null,
+      null
+    ],
+    "cause": "other"
+  },
+  {
+    "note_id": "N009",
+    "scope": [
+      "Chennai-Bangalore"
+    ],
+    "effect": "normalisation",
+    "start": "2025-03-17",
+    "end": null,
+    "open_ended": false,
+    "mag": [
+      null,
+      null
+    ],
+    "cause": "weather"
+  },
+  {
+    "note_id": "N010",
+    "scope": "ALL",
+    "effect": "none",
+    "start": "2025-10-27",
+    "end": null,
+    "open_ended": false,
+    "mag": [
+      null,
+      null
+    ],
+    "cause": "regulatory"
+  }
+]

@@ -1,0 +1,26 @@
+# RouteSentinel configuration — all constants live here, never in source code.
+# Thresholds match AGENTS.md defaults; change only with Phase 6 sweep evidence.
+
+own_threshold: 0.07
+peer_threshold: 0.10
+min_history: 4
+max_history: 8
+absorption_weeks: 8
+grace_days: 0
+
+k_retrieval: 4
+rrf_k: 60
+
+model: "qwen2.5:3b-instruct-q4_K_M"
+temperature: 0
+top_k: 1
+seed: 42
+
+data:
+  shipments: "data/shipments.csv"
+  notes: "data/notes.csv"
+
+outputs:
+  output_csv: "outputs/output.csv"
+  findings_db: "outputs/findings.sqlite"
+  token_cost_log: "outputs/token_cost_log.json"

@@ -1,0 +1,40 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.hypothesis/
+
+# Caches & local state
+.cache/
+outputs/.ollama_cache/
+outputs/repro/run*.csv*
+
+# Model weights & binaries (large, environment-provided)
+*.gguf
+*.safetensors
+*.bin
+*.onnx
+/tmp/opencode/models/
+
+# Secrets & local config
+.env
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node
+web/node_modules/
+web/dist/
+
+# Misc
+*.log
